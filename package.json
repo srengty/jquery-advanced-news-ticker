@@ -1,5 +1,8 @@
 {
     "name": "jquery-advanced-news-ticker",
     "version": "1.0.0",
-    "description": ""
+    "description": "",
+    "main": "jquery.newsTicker.min.js",
+    "repository": "https://github.com/srengty/jquery-advanced-news-ticker",
+    "license": "GPL-2.0"
 }
